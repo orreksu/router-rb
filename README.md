@@ -26,7 +26,7 @@ has correct functionality and semantics for the contraints of the program.
 We also spent quite some time with debugging the error messages that we 
 received from the server since they do not have any clues inside them other 
 than the fact it was invalid.
---
+
 Major challenge when we started doing the 'advanced' version was that
 our editor, VS Code, decided to erase table.rb's content, while leaving
 the file and us with no code that does revoke/update.¯\_(ツ)_/¯
