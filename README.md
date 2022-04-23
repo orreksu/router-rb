@@ -1,4 +1,4 @@
-# Project 3 - Simple BGP Router
+# Simple BGP Router
 **made by Vadym Matviichuck and Oleksandr Litus**
 
 ### High level approach 
